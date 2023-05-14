@@ -23,8 +23,8 @@ import {
         <List ml={4} my={4}>
           <ListItem>
             <Meta>Website</Meta>
-            <Link href="https://coder-sager-sketch.netlify.app/">
-            https://coder-sager-sketch.netlify.app/ <ExternalLinkIcon mx="2px" />
+            <Link href="https://coder-sagar-sketch.netlify.app/">
+            https://coder-sagar-sketch.netlify.app/ <ExternalLinkIcon mx="2px" />
             </Link>
           </ListItem>
           
