@@ -90,7 +90,7 @@
           
           <LinkItem
             target="_blank"
-            href="https://github.com/craftzdog/craftzdog-homepage"
+            href="https://github.com/coder-sagar-sketch/My-Portfolio"
             path={path}
             display="inline-flex"
             alignItems="center"
