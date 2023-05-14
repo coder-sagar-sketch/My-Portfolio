@@ -1,9 +1,12 @@
 {
+  "homepage": "https://coder-sagar-sketch.github.io/My-Portfolio",
   "name": "3-d-portfilio",
   "version": "1.0.0",
   "description": "Sagar portfilio",
   "main": "index.js",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "dev": "next dev -H 0.0.0.0",
     "build": "next build && next export",
     "prettier": "prettier -write",
